@@ -1,10 +1,7 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "AI Sheet",
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
+  "name": "NU Sheet",
+ 
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#2AB673",
@@ -17,20 +14,12 @@
       "url": "mailto:support@example.com"
     }
   ],
-  "topbarCtaButton": {
-    "name": "アプリを開く",
-    "url": "https://app.example.com"
-  },
+  
   "anchors": [
     {
       "name": "APIドキュメント",
       "icon": "code",
       "url": "api"
-    },
-    {
-      "name": "コミュニティ",
-      "icon": "discord",
-      "url": "https://discord.gg/example"
     }
   ],
   "navigation": [
@@ -66,8 +55,7 @@
       "group": "AI機能",
       "pages": [
         "ai-batch",
-        "ai/instructions",
-        "ai/output-format"
+        "ai/instructions"
       ]
     },
     {
@@ -85,10 +73,5 @@
         "troubleshooting"
       ]
     }
-  ],
-  "footerSocials": {
-    "twitter": "https://twitter.com/example",
-    "github": "https://github.com/example",
-    "discord": "https://discord.gg/example"
-  }
+  ]
 }

@@ -79,11 +79,10 @@
       ]
     },
     {
-      "group": "トラブルシューティング",
+      "group": "サポート",
       "pages": [
-        "troubleshooting",
         "faq",
-        "known-issues"
+        "troubleshooting"
       ]
     }
   ],

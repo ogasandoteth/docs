@@ -72,6 +72,13 @@
         "faq",
         "troubleshooting"
       ]
+    },
+    {
+      "group": "規約・ポリシー",
+      "pages": [
+        "policies/terms",
+        "policies/privacy"
+      ]
     }
   ]
 }

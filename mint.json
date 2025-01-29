@@ -8,12 +8,6 @@
     "light": "#55D799",
     "dark": "#117866"
   },
-  "topbarLinks": [
-    {
-      "name": "サポート",
-      "url": "mailto:support@example.com"
-    }
-  ],
   
   "anchors": [
     {
@@ -23,56 +17,7 @@
     }
   ],
   "navigation": [
-    {
-      "group": "概要",
-      "pages": [
-        "introduction",
-        "getting-started"
-      ]
-    },
-    {
-      "group": "基本機能",
-      "pages": [
-        {
-          "group": "シート操作",
-          "pages": [
-            "sheet/create",
-            "sheet/edit",
-            "sheet/shortcuts"
-          ]
-        },
-        {
-          "group": "列の設定",
-          "pages": [
-            "column-mapping",
-            "column/roles",
-            "column/operations"
-          ]
-        }
-      ]
-    },
-    {
-      "group": "AI機能",
-      "pages": [
-        "ai-batch",
-        "ai/instructions"
-      ]
-    },
-    {
-      "group": "高度な使い方",
-      "pages": [
-        "advanced/templates",
-        "advanced/batch-operations",
-        "advanced/keyboard-shortcuts"
-      ]
-    },
-    {
-      "group": "サポート",
-      "pages": [
-        "faq",
-        "troubleshooting"
-      ]
-    },
+
     {
       "group": "規約・ポリシー",
       "pages": [

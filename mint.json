@@ -9,20 +9,13 @@
     "dark": "#117866"
   },
   
-  "anchors": [
-    {
-      "name": "APIドキュメント",
-      "icon": "code",
-      "url": "api"
-    }
-  ],
   "navigation": [
-
     {
       "group": "規約・ポリシー",
       "pages": [
         "policies/terms",
-        "policies/privacy"
+        "policies/privacy",
+        "policies/tokushoho"
       ]
     }
   ]
